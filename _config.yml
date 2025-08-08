@@ -90,3 +90,6 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
